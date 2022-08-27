@@ -13,7 +13,7 @@ And if you're interested to buy it please contact me on my [email address](mailt
 ## - What is Countries Of The World API?
 
 Countries Of The World API is an API that gives you the list of the different countries around the world. You csn either see the entire list or specify a country by writing its name on the request.
-Example: https://example.com/\<country Name\>
+Example: https://example.com/<country name\>
 
 ## - How to clone the repository onto your computer?
 
