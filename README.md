@@ -6,7 +6,7 @@ You can see the documentation of the API right [here (RapidAPI Hub)](https://rap
 <br />
 | Free                                                                    | Pro                                                                       | Ultra (Recommanded)|
 |-------------------------------------------------------------------------|---------------------------------------------------------------------------|-------|
-| You don't pay any fees but you have a limit of 1000 requests per month. | You pay $10 monthly fees and you have a limit of 5000 requests per month. |You pay $25 monthly fees and you don't have any monthly limit|
+| You don't pay any fees but you have a limit of 500 requests per month. | You pay $10 monthly fees and you have a limit of 1000 requests per month. |You pay $25 monthly fees and you don't have any monthly limit|
 
 And if you're interested to buy it please contact me on my [email address](mailto:ojabrane43@gmail.com).
 
