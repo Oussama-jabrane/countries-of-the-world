@@ -2714,14 +2714,13 @@ const countries = [
         flag: "https://restcountries.eu/data/plw.svg"
     },
     {
-        name: "Palestine, State of",
+        name: "Palestine",
         code: "PS",
-        capital: "Ramallah",
+        capital: "Jerusalem",
         region: "AS",
         currency: {
-            code: "ILS",
-            name: "Israeli new sheqel",
-            symbol: "₪"
+            code: "£P",
+            name: "Palestine pound"
         },
         language: {
             code: "ar",
